@@ -37,5 +37,5 @@ Nosso projeto vinculado a cadeira de Projeto Integrado I é voltado a melhoria d
 
 | <img src="https://avatars.githubusercontent.com/u/90623907?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/177125848?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/207114379?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/172865807?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/75102858?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/208042701?v=4" width=100> |
 | --- | --- | --- | --- | --- | --- |
-| <b>Ingryd</b> | <b>Renan</b> | <b>David</b> | <b>Tiago</b> | <b>Arthur</b> | <b>Giovanna</b> |
+| <a href="https://github.com/ingrydf12" target="_blank"><b>Ingryd Duarte</b></a>| <b>Renan Polainas</b> | <b>David Boanerges</b> | <b>Tiago Viana</b> | <b>Arthur Heráclio</b> | <b>Giovanna Sousa</b> |
 | Backend / Testes | Backend / Testes | Gestor / Design | Frontend / Design | Frontend / Design | Arte / Design |
