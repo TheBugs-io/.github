@@ -44,7 +44,7 @@ Jogo de tendência educativa voltada para ensino de programação para cadeira d
 
 <img src="https://i.pinimg.com/originals/5d/6f/2c/5d6f2ce38846c98cd7ebf46374a5ab52.gif" width="200">
 
-| <img src="https://avatars.githubusercontent.com/u/90623907?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/177125848?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/207114379?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/172865807?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/75102858?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/208042701?v=4" width=100> |
-| --- | --- | --- | --- | --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/90623907?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/177125848?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/207114379?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/172865807?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/75102858?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/206629409?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/208042701?v=4" width=100> |
+| --- | --- | --- | --- | --- | --- | --- |
 | <a href="https://github.com/ingrydf12" target="_blank"><b>Ingryd Duarte</b></a>| <a href="https://github.com/Soiten"><b>Renan Polainas</b></a> | <b>David Boanerges</b> | <b>Tiago Viana</b> | <a href="https://github.com/arthurheraclio"><b>Arthur Heráclio</b></a> | <a href="https://github.com/JwhnLwnnwn" target="_blank"><b>John L. Fernandes</b></a> | <b>Giovanna Sousa</b> |
-| Fullstack / Testes | Backend / Testes | Gestor / Design | Frontend / Design | Frontend / Design | Ilustrador / Designer UI/UX | Artes (Cadê a sala) |
+| Fullstack / Testes | Desenvolvedor | Gestor / Design | Desenvolvedor | Desenvolvedor | Ilustrador / Designer UI/UX | Artes (Cadê a sala) |
