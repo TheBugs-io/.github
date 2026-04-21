@@ -10,11 +10,20 @@ Somos a equipe TheBugs, uma equipe formada por alunos do curso de Sistemas e Mí
 
 Desenvolver projetos agregadores e integrar nossa criatividade, eficiência e diversão em meio ao nosso desenvolvimento acadêmico, visando o mercado.
 
-## Cadê a sala
+## Projetos
+
+### Cadê a sala
 
 Nosso projeto vinculado a cadeira de Projeto Integrado I é voltado a melhoria de comunicação e eficiência no gerenciamento do bloco IUVI (Instituto Universidade Virtual), no qual está localizado o curso de Sistemas e Mídias Digitais (SMD).
 
+### In development
+
+Jogo de tendência educativa voltada para ensino de programação para cadeira de Estrutura de Dados em Sistemas e Mídias Digitais (SMD), direcionada a alunos ingressantes na área de tecnologia.
+
 ## Nossas tecnologias
+
+### Game Development
+- GDScript (Godot Engine)
 
 ### Frontend
 - ReactJS
@@ -29,7 +38,7 @@ Nosso projeto vinculado a cadeira de Projeto Integrado I é voltado a melhoria d
 
 ### Testes
 - Insomnia
-- Docker
+- Jest
 
 ## Integrantes
 
@@ -37,5 +46,5 @@ Nosso projeto vinculado a cadeira de Projeto Integrado I é voltado a melhoria d
 
 | <img src="https://avatars.githubusercontent.com/u/90623907?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/177125848?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/207114379?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/172865807?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/75102858?v=4" width=100> | <img src="https://avatars.githubusercontent.com/u/208042701?v=4" width=100> |
 | --- | --- | --- | --- | --- | --- |
-| <a href="https://github.com/ingrydf12" target="_blank"><b>Ingryd Duarte</b></a>| <b>Renan Polainas</b> | <b>David Boanerges</b> | <b>Tiago Viana</b> | <b>Arthur Heráclio</b> | <b>Giovanna Sousa</b> |
-| Fullstack / Testes | Backend / Testes | Gestor / Design | Frontend / Design | Frontend / Design | Artes |
+| <a href="https://github.com/ingrydf12" target="_blank"><b>Ingryd Duarte</b></a>| <a href="https://github.com/Soiten"><b>Renan Polainas</b></a> | <b>David Boanerges</b> | <b>Tiago Viana</b> | <a href="https://github.com/arthurheraclio"><b>Arthur Heráclio</b></a> | <a href="https://github.com/JwhnLwnnwn" target="_blank"><b>John L. Fernandes</b></a> | <b>Giovanna Sousa</b> |
+| Fullstack / Testes | Backend / Testes | Gestor / Design | Frontend / Design | Frontend / Design | Ilustrador / Designer UI/UX | Artes (Cadê a sala) |
